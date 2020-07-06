@@ -1,6 +1,5 @@
 # hbase-object-store
 ## imooc-hos-common   公共类模块
-
 ## imooc-hos-mybatis     mybatis数据库操作类模块
 
 ## imooc-hos-core           用户管理及权限管理模块
